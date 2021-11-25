@@ -1,0 +1,13 @@
+Authentication details
+
+user-''
+password-''
+
+user-'(spacebar)
+password-'(spacebar)
+
+user-''
+password- ' or 1=1--
+
+user- ' or 1=1--
+password- ' or 1=1--
